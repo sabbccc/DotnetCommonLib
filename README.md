@@ -55,6 +55,7 @@ You can add this library into your project in one of two ways:
    cd DotnetCommonLib
 
 ## Project Structure
+```
 DotnetCommonLib/
 ├── .vs/                     ← Visual Studio settings (ignore)  
 ├── Common.Core/            ← Main library project  
@@ -63,30 +64,36 @@ DotnetCommonLib/
 │   ├── tests/               ← (Optional) Unit tests  
 ├── .gitignore  
 └── README.md                ← This file  
+```
 
-Common.Core is the central project that houses all shared code. Future libraries (e.g., Common.Data, Common.Web) could be added following the same pattern.
+`Common.Core` is the central project that houses all shared code.  
+Future libraries (e.g., **Common.Data**, **Common.Web**) can be added following the same pattern.
 
-Contributing
+---
+
+## Contributing
 
 Contributions are welcome! Here’s how you can help:
 
-Fork the repository
+1. **Fork** the repository  
+2. **Create a new branch**:
+   - `feature/YourFeature`
+   - `bugfix/IssueNumber`
+3. Make your changes and add appropriate tests (if applicable)  
+4. Submit a **pull request** with a clear description of your changes  
 
-Create a new branch: feature/YourFeature or bugfix/IssueNumber
+Please ensure your code follows existing style guidelines and passes all existing tests.
 
-Make your changes, add appropriate tests (if applicable)
+---
 
-Submit a pull request with a clear description of your changes
+## License
 
-Please make sure your code adheres to existing style guidelines and passes any existing tests.
+This project is licensed under the **MIT License** — see the `LICENSE` file for details.
 
-License
+---
 
-This project is licensed under the MIT License — see the LICENSE
- file for details.
+## Contact
 
-Contact
+Maintained by **sabbccc**.  
+Feel free to open issues or pull requests for improvements, bug fixes, or suggestions.
 
-Maintained by sabbccc
-.
-Feel free to open issues or pull requests for improvements, bug fixes or suggestions.
