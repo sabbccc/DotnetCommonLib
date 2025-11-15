@@ -1,60 +1,7 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "F:\\Projects\\Personal Projects\\DotnetBoilerplate\\Common.Core\\",
-  "Documents": [
-    {
-      "AbsoluteMoniker": "D:0:0:{88EBE9F5-2F86-7D93-9B6B-BF038F6BD962}|Common.Core\\Common.Core.csproj|f:\\projects\\personal projects\\dotnetboilerplate\\common.core\\common.core\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{88EBE9F5-2F86-7D93-9B6B-BF038F6BD962}|Common.Core\\Common.Core.csproj|solutionrelative:common.core\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{88EBE9F5-2F86-7D93-9B6B-BF038F6BD962}|Common.Core\\Common.Core.csproj|f:\\projects\\personal projects\\dotnetboilerplate\\common.core\\common.core\\security\\cryptoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{88EBE9F5-2F86-7D93-9B6B-BF038F6BD962}|Common.Core\\Common.Core.csproj|solutionrelative:common.core\\security\\cryptoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{88EBE9F5-2F86-7D93-9B6B-BF038F6BD962}|Common.Core\\Common.Core.csproj|f:\\projects\\personal projects\\dotnetboilerplate\\common.core\\common.core\\security\\cryptoserviceextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{88EBE9F5-2F86-7D93-9B6B-BF038F6BD962}|Common.Core\\Common.Core.csproj|solutionrelative:common.core\\security\\cryptoserviceextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{88EBE9F5-2F86-7D93-9B6B-BF038F6BD962}|Common.Core\\Common.Core.csproj|f:\\projects\\personal projects\\dotnetboilerplate\\common.core\\common.core\\services\\auth\\oauth2authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{88EBE9F5-2F86-7D93-9B6B-BF038F6BD962}|Common.Core\\Common.Core.csproj|solutionrelative:common.core\\services\\auth\\oauth2authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{88EBE9F5-2F86-7D93-9B6B-BF038F6BD962}|Common.Core\\Common.Core.csproj|f:\\projects\\personal projects\\dotnetboilerplate\\common.core\\common.core\\services\\auth\\apikeyauthservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{88EBE9F5-2F86-7D93-9B6B-BF038F6BD962}|Common.Core\\Common.Core.csproj|solutionrelative:common.core\\services\\auth\\apikeyauthservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{88EBE9F5-2F86-7D93-9B6B-BF038F6BD962}|Common.Core\\Common.Core.csproj|f:\\projects\\personal projects\\dotnetboilerplate\\common.core\\common.core\\services\\auth\\authserviceregistrar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{88EBE9F5-2F86-7D93-9B6B-BF038F6BD962}|Common.Core\\Common.Core.csproj|solutionrelative:common.core\\services\\auth\\authserviceregistrar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{88EBE9F5-2F86-7D93-9B6B-BF038F6BD962}|Common.Core\\Common.Core.csproj|f:\\projects\\personal projects\\dotnetboilerplate\\common.core\\common.core\\services\\auth\\apikeyauthenticationhandler .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{88EBE9F5-2F86-7D93-9B6B-BF038F6BD962}|Common.Core\\Common.Core.csproj|solutionrelative:common.core\\services\\auth\\apikeyauthenticationhandler .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{88EBE9F5-2F86-7D93-9B6B-BF038F6BD962}|Common.Core\\Common.Core.csproj|f:\\projects\\personal projects\\dotnetboilerplate\\common.core\\common.core\\services\\auth\\apikeyauthenticationoptions .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{88EBE9F5-2F86-7D93-9B6B-BF038F6BD962}|Common.Core\\Common.Core.csproj|solutionrelative:common.core\\services\\auth\\apikeyauthenticationoptions .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{88EBE9F5-2F86-7D93-9B6B-BF038F6BD962}|Common.Core\\Common.Core.csproj|f:\\projects\\personal projects\\dotnetboilerplate\\common.core\\common.core\\configuration\\apikeysettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{88EBE9F5-2F86-7D93-9B6B-BF038F6BD962}|Common.Core\\Common.Core.csproj|solutionrelative:common.core\\configuration\\apikeysettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{88EBE9F5-2F86-7D93-9B6B-BF038F6BD962}|Common.Core\\Common.Core.csproj|f:\\projects\\personal projects\\dotnetboilerplate\\common.core\\common.core\\configuration\\oauth2settings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{88EBE9F5-2F86-7D93-9B6B-BF038F6BD962}|Common.Core\\Common.Core.csproj|solutionrelative:common.core\\configuration\\oauth2settings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{88EBE9F5-2F86-7D93-9B6B-BF038F6BD962}|Common.Core\\Common.Core.csproj|f:\\projects\\personal projects\\dotnetboilerplate\\common.core\\common.core\\services\\auth\\iauthservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{88EBE9F5-2F86-7D93-9B6B-BF038F6BD962}|Common.Core\\Common.Core.csproj|solutionrelative:common.core\\services\\auth\\iauthservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{88EBE9F5-2F86-7D93-9B6B-BF038F6BD962}|Common.Core\\Common.Core.csproj|f:\\projects\\personal projects\\dotnetboilerplate\\common.core\\common.core\\configuration\\jwtsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{88EBE9F5-2F86-7D93-9B6B-BF038F6BD962}|Common.Core\\Common.Core.csproj|solutionrelative:common.core\\configuration\\jwtsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{88EBE9F5-2F86-7D93-9B6B-BF038F6BD962}|Common.Core\\Common.Core.csproj|f:\\projects\\personal projects\\dotnetboilerplate\\common.core\\common.core\\jobs\\hangfireauthorizationfilter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{88EBE9F5-2F86-7D93-9B6B-BF038F6BD962}|Common.Core\\Common.Core.csproj|solutionrelative:common.core\\jobs\\hangfireauthorizationfilter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    }
-  ],
+  "WorkspaceRootPath": "F:\\Projects\\Personal Projects\\DotnetCommonLib\\",
+  "Documents": [],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -62,7 +9,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 20,
+          "SelectedChildIndex": -1,
           "Children": [
             {
               "$type": "Bookmark",
@@ -97,173 +44,8 @@
               "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
             },
             {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "CryptoService.cs",
-              "DocumentMoniker": "F:\\Projects\\Personal Projects\\DotnetBoilerplate\\Common.Core\\Common.Core\\Security\\CryptoService.cs",
-              "RelativeDocumentMoniker": "Common.Core\\Security\\CryptoService.cs",
-              "ToolTip": "F:\\Projects\\Personal Projects\\DotnetBoilerplate\\Common.Core\\Common.Core\\Security\\CryptoService.cs",
-              "RelativeToolTip": "Common.Core\\Security\\CryptoService.cs",
-              "ViewState": "AgIAADUAAAAAAAAAAAAcwFsAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-15T15:14:10.374Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "CryptoServiceExtensions.cs",
-              "DocumentMoniker": "F:\\Projects\\Personal Projects\\DotnetBoilerplate\\Common.Core\\Common.Core\\Security\\CryptoServiceExtensions.cs",
-              "RelativeDocumentMoniker": "Common.Core\\Security\\CryptoServiceExtensions.cs",
-              "ToolTip": "F:\\Projects\\Personal Projects\\DotnetBoilerplate\\Common.Core\\Common.Core\\Security\\CryptoServiceExtensions.cs",
-              "RelativeToolTip": "Common.Core\\Security\\CryptoServiceExtensions.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAADwvwAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-15T15:14:08.979Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "ApiKeyAuthenticationHandler .cs",
-              "DocumentMoniker": "F:\\Projects\\Personal Projects\\DotnetBoilerplate\\Common.Core\\Common.Core\\Services\\Auth\\ApiKeyAuthenticationHandler .cs",
-              "RelativeDocumentMoniker": "Common.Core\\Services\\Auth\\ApiKeyAuthenticationHandler .cs",
-              "ToolTip": "F:\\Projects\\Personal Projects\\DotnetBoilerplate\\Common.Core\\Common.Core\\Services\\Auth\\ApiKeyAuthenticationHandler .cs",
-              "RelativeToolTip": "Common.Core\\Services\\Auth\\ApiKeyAuthenticationHandler .cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAQwBcAAAAnAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-15T15:09:56.278Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "ApiKeyAuthenticationOptions .cs",
-              "DocumentMoniker": "F:\\Projects\\Personal Projects\\DotnetBoilerplate\\Common.Core\\Common.Core\\Services\\Auth\\ApiKeyAuthenticationOptions .cs",
-              "RelativeDocumentMoniker": "Common.Core\\Services\\Auth\\ApiKeyAuthenticationOptions .cs",
-              "ToolTip": "F:\\Projects\\Personal Projects\\DotnetBoilerplate\\Common.Core\\Common.Core\\Services\\Auth\\ApiKeyAuthenticationOptions .cs",
-              "RelativeToolTip": "Common.Core\\Services\\Auth\\ApiKeyAuthenticationOptions .cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAQAAAA2AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-15T15:09:40.005Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "ApiKeyAuthService.cs",
-              "DocumentMoniker": "F:\\Projects\\Personal Projects\\DotnetBoilerplate\\Common.Core\\Common.Core\\Services\\Auth\\ApiKeyAuthService.cs",
-              "RelativeDocumentMoniker": "Common.Core\\Services\\Auth\\ApiKeyAuthService.cs",
-              "ToolTip": "F:\\Projects\\Personal Projects\\DotnetBoilerplate\\Common.Core\\Common.Core\\Services\\Auth\\ApiKeyAuthService.cs",
-              "RelativeToolTip": "Common.Core\\Services\\Auth\\ApiKeyAuthService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACQAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-15T15:02:13.095Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "OAuth2AuthService.cs",
-              "DocumentMoniker": "F:\\Projects\\Personal Projects\\DotnetBoilerplate\\Common.Core\\Common.Core\\Services\\Auth\\OAuth2AuthService.cs",
-              "RelativeDocumentMoniker": "Common.Core\\Services\\Auth\\OAuth2AuthService.cs",
-              "ToolTip": "F:\\Projects\\Personal Projects\\DotnetBoilerplate\\Common.Core\\Common.Core\\Services\\Auth\\OAuth2AuthService.cs",
-              "RelativeToolTip": "Common.Core\\Services\\Auth\\OAuth2AuthService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-15T15:01:26.015Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "ApiKeySettings.cs",
-              "DocumentMoniker": "F:\\Projects\\Personal Projects\\DotnetBoilerplate\\Common.Core\\Common.Core\\Configuration\\ApiKeySettings.cs",
-              "RelativeDocumentMoniker": "Common.Core\\Configuration\\ApiKeySettings.cs",
-              "ToolTip": "F:\\Projects\\Personal Projects\\DotnetBoilerplate\\Common.Core\\Common.Core\\Configuration\\ApiKeySettings.cs",
-              "RelativeToolTip": "Common.Core\\Configuration\\ApiKeySettings.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-15T14:58:04.474Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "OAuth2Settings.cs",
-              "DocumentMoniker": "F:\\Projects\\Personal Projects\\DotnetBoilerplate\\Common.Core\\Common.Core\\Configuration\\OAuth2Settings.cs",
-              "RelativeDocumentMoniker": "Common.Core\\Configuration\\OAuth2Settings.cs",
-              "ToolTip": "F:\\Projects\\Personal Projects\\DotnetBoilerplate\\Common.Core\\Common.Core\\Configuration\\OAuth2Settings.cs",
-              "RelativeToolTip": "Common.Core\\Configuration\\OAuth2Settings.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-15T14:57:52.875Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "JwtSettings.cs",
-              "DocumentMoniker": "F:\\Projects\\Personal Projects\\DotnetBoilerplate\\Common.Core\\Common.Core\\Configuration\\JwtSettings.cs",
-              "RelativeDocumentMoniker": "Common.Core\\Configuration\\JwtSettings.cs",
-              "ToolTip": "F:\\Projects\\Personal Projects\\DotnetBoilerplate\\Common.Core\\Common.Core\\Configuration\\JwtSettings.cs",
-              "RelativeToolTip": "Common.Core\\Configuration\\JwtSettings.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAADwvwAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-15T14:57:40.361Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "AuthServiceRegistrar.cs",
-              "DocumentMoniker": "F:\\Projects\\Personal Projects\\DotnetBoilerplate\\Common.Core\\Common.Core\\Services\\Auth\\AuthServiceRegistrar.cs",
-              "RelativeDocumentMoniker": "Common.Core\\Services\\Auth\\AuthServiceRegistrar.cs",
-              "ToolTip": "F:\\Projects\\Personal Projects\\DotnetBoilerplate\\Common.Core\\Common.Core\\Services\\Auth\\AuthServiceRegistrar.cs",
-              "RelativeToolTip": "Common.Core\\Services\\Auth\\AuthServiceRegistrar.cs",
-              "ViewState": "AgIAAFAAAAAAAAAAAAAcwHAAAAANAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-15T14:48:26.236Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "IAuthService.cs",
-              "DocumentMoniker": "F:\\Projects\\Personal Projects\\DotnetBoilerplate\\Common.Core\\Common.Core\\Services\\Auth\\IAuthService.cs",
-              "RelativeDocumentMoniker": "Common.Core\\Services\\Auth\\IAuthService.cs",
-              "ToolTip": "F:\\Projects\\Personal Projects\\DotnetBoilerplate\\Common.Core\\Common.Core\\Services\\Auth\\IAuthService.cs",
-              "RelativeToolTip": "Common.Core\\Services\\Auth\\IAuthService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-15T14:48:20.627Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "HangfireAuthorizationFilter.cs",
-              "DocumentMoniker": "F:\\Projects\\Personal Projects\\DotnetBoilerplate\\Common.Core\\Common.Core\\Jobs\\HangfireAuthorizationFilter.cs",
-              "RelativeDocumentMoniker": "Common.Core\\Jobs\\HangfireAuthorizationFilter.cs",
-              "ToolTip": "F:\\Projects\\Personal Projects\\DotnetBoilerplate\\Common.Core\\Common.Core\\Jobs\\HangfireAuthorizationFilter.cs",
-              "RelativeToolTip": "Common.Core\\Jobs\\HangfireAuthorizationFilter.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-15T14:28:41.443Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "F:\\Projects\\Personal Projects\\DotnetBoilerplate\\Common.Core\\Common.Core\\appsettings.json",
-              "RelativeDocumentMoniker": "Common.Core\\appsettings.json",
-              "ToolTip": "F:\\Projects\\Personal Projects\\DotnetBoilerplate\\Common.Core\\Common.Core\\appsettings.json",
-              "RelativeToolTip": "Common.Core\\appsettings.json",
-              "ViewState": "AgIAAEIAAAAAAAAAAAAAAD4AAAAYAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-11-15T14:23:39.506Z",
-              "EditorCaption": ""
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
             }
           ]
         }

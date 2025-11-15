@@ -3,6 +3,18 @@
   "WorkspaceRootPath": "F:\\Projects\\Personal Projects\\DotnetBoilerplate\\Common.Core\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{88EBE9F5-2F86-7D93-9B6B-BF038F6BD962}|Common.Core\\Common.Core.csproj|f:\\projects\\personal projects\\dotnetboilerplate\\common.core\\common.core\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{88EBE9F5-2F86-7D93-9B6B-BF038F6BD962}|Common.Core\\Common.Core.csproj|solutionrelative:common.core\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{88EBE9F5-2F86-7D93-9B6B-BF038F6BD962}|Common.Core\\Common.Core.csproj|f:\\projects\\personal projects\\dotnetboilerplate\\common.core\\common.core\\security\\cryptoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{88EBE9F5-2F86-7D93-9B6B-BF038F6BD962}|Common.Core\\Common.Core.csproj|solutionrelative:common.core\\security\\cryptoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{88EBE9F5-2F86-7D93-9B6B-BF038F6BD962}|Common.Core\\Common.Core.csproj|f:\\projects\\personal projects\\dotnetboilerplate\\common.core\\common.core\\security\\cryptoserviceextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{88EBE9F5-2F86-7D93-9B6B-BF038F6BD962}|Common.Core\\Common.Core.csproj|solutionrelative:common.core\\security\\cryptoserviceextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{88EBE9F5-2F86-7D93-9B6B-BF038F6BD962}|Common.Core\\Common.Core.csproj|f:\\projects\\personal projects\\dotnetboilerplate\\common.core\\common.core\\services\\auth\\oauth2authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{88EBE9F5-2F86-7D93-9B6B-BF038F6BD962}|Common.Core\\Common.Core.csproj|solutionrelative:common.core\\services\\auth\\oauth2authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -35,10 +47,6 @@
       "RelativeMoniker": "D:0:0:{88EBE9F5-2F86-7D93-9B6B-BF038F6BD962}|Common.Core\\Common.Core.csproj|solutionrelative:common.core\\services\\auth\\iauthservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{88EBE9F5-2F86-7D93-9B6B-BF038F6BD962}|Common.Core\\Common.Core.csproj|f:\\projects\\personal projects\\dotnetboilerplate\\common.core\\common.core\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{88EBE9F5-2F86-7D93-9B6B-BF038F6BD962}|Common.Core\\Common.Core.csproj|solutionrelative:common.core\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{88EBE9F5-2F86-7D93-9B6B-BF038F6BD962}|Common.Core\\Common.Core.csproj|f:\\projects\\personal projects\\dotnetboilerplate\\common.core\\common.core\\configuration\\jwtsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{88EBE9F5-2F86-7D93-9B6B-BF038F6BD962}|Common.Core\\Common.Core.csproj|solutionrelative:common.core\\configuration\\jwtsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -54,7 +62,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 11,
+          "SelectedChildIndex": 20,
           "Children": [
             {
               "$type": "Bookmark",
@@ -90,7 +98,33 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 1,
+              "Title": "CryptoService.cs",
+              "DocumentMoniker": "F:\\Projects\\Personal Projects\\DotnetBoilerplate\\Common.Core\\Common.Core\\Security\\CryptoService.cs",
+              "RelativeDocumentMoniker": "Common.Core\\Security\\CryptoService.cs",
+              "ToolTip": "F:\\Projects\\Personal Projects\\DotnetBoilerplate\\Common.Core\\Common.Core\\Security\\CryptoService.cs",
+              "RelativeToolTip": "Common.Core\\Security\\CryptoService.cs",
+              "ViewState": "AgIAADUAAAAAAAAAAAAcwFsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-15T15:14:10.374Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CryptoServiceExtensions.cs",
+              "DocumentMoniker": "F:\\Projects\\Personal Projects\\DotnetBoilerplate\\Common.Core\\Common.Core\\Security\\CryptoServiceExtensions.cs",
+              "RelativeDocumentMoniker": "Common.Core\\Security\\CryptoServiceExtensions.cs",
+              "ToolTip": "F:\\Projects\\Personal Projects\\DotnetBoilerplate\\Common.Core\\Common.Core\\Security\\CryptoServiceExtensions.cs",
+              "RelativeToolTip": "Common.Core\\Security\\CryptoServiceExtensions.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvwAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-15T15:14:08.979Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
               "Title": "ApiKeyAuthenticationHandler .cs",
               "DocumentMoniker": "F:\\Projects\\Personal Projects\\DotnetBoilerplate\\Common.Core\\Common.Core\\Services\\Auth\\ApiKeyAuthenticationHandler .cs",
               "RelativeDocumentMoniker": "Common.Core\\Services\\Auth\\ApiKeyAuthenticationHandler .cs",
@@ -103,7 +137,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 7,
               "Title": "ApiKeyAuthenticationOptions .cs",
               "DocumentMoniker": "F:\\Projects\\Personal Projects\\DotnetBoilerplate\\Common.Core\\Common.Core\\Services\\Auth\\ApiKeyAuthenticationOptions .cs",
               "RelativeDocumentMoniker": "Common.Core\\Services\\Auth\\ApiKeyAuthenticationOptions .cs",
@@ -116,7 +150,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 4,
               "Title": "ApiKeyAuthService.cs",
               "DocumentMoniker": "F:\\Projects\\Personal Projects\\DotnetBoilerplate\\Common.Core\\Common.Core\\Services\\Auth\\ApiKeyAuthService.cs",
               "RelativeDocumentMoniker": "Common.Core\\Services\\Auth\\ApiKeyAuthService.cs",
@@ -129,7 +163,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 3,
               "Title": "OAuth2AuthService.cs",
               "DocumentMoniker": "F:\\Projects\\Personal Projects\\DotnetBoilerplate\\Common.Core\\Common.Core\\Services\\Auth\\OAuth2AuthService.cs",
               "RelativeDocumentMoniker": "Common.Core\\Services\\Auth\\OAuth2AuthService.cs",
@@ -142,7 +176,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 8,
               "Title": "ApiKeySettings.cs",
               "DocumentMoniker": "F:\\Projects\\Personal Projects\\DotnetBoilerplate\\Common.Core\\Common.Core\\Configuration\\ApiKeySettings.cs",
               "RelativeDocumentMoniker": "Common.Core\\Configuration\\ApiKeySettings.cs",
@@ -155,7 +189,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 9,
               "Title": "OAuth2Settings.cs",
               "DocumentMoniker": "F:\\Projects\\Personal Projects\\DotnetBoilerplate\\Common.Core\\Common.Core\\Configuration\\OAuth2Settings.cs",
               "RelativeDocumentMoniker": "Common.Core\\Configuration\\OAuth2Settings.cs",
@@ -168,7 +202,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 11,
               "Title": "JwtSettings.cs",
               "DocumentMoniker": "F:\\Projects\\Personal Projects\\DotnetBoilerplate\\Common.Core\\Common.Core\\Configuration\\JwtSettings.cs",
               "RelativeDocumentMoniker": "Common.Core\\Configuration\\JwtSettings.cs",
@@ -181,7 +215,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 5,
               "Title": "AuthServiceRegistrar.cs",
               "DocumentMoniker": "F:\\Projects\\Personal Projects\\DotnetBoilerplate\\Common.Core\\Common.Core\\Services\\Auth\\AuthServiceRegistrar.cs",
               "RelativeDocumentMoniker": "Common.Core\\Services\\Auth\\AuthServiceRegistrar.cs",
@@ -194,7 +228,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 10,
               "Title": "IAuthService.cs",
               "DocumentMoniker": "F:\\Projects\\Personal Projects\\DotnetBoilerplate\\Common.Core\\Common.Core\\Services\\Auth\\IAuthService.cs",
               "RelativeDocumentMoniker": "Common.Core\\Services\\Auth\\IAuthService.cs",
@@ -207,7 +241,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 12,
               "Title": "HangfireAuthorizationFilter.cs",
               "DocumentMoniker": "F:\\Projects\\Personal Projects\\DotnetBoilerplate\\Common.Core\\Common.Core\\Jobs\\HangfireAuthorizationFilter.cs",
               "RelativeDocumentMoniker": "Common.Core\\Jobs\\HangfireAuthorizationFilter.cs",
@@ -220,13 +254,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 0,
               "Title": "appsettings.json",
               "DocumentMoniker": "F:\\Projects\\Personal Projects\\DotnetBoilerplate\\Common.Core\\Common.Core\\appsettings.json",
               "RelativeDocumentMoniker": "Common.Core\\appsettings.json",
               "ToolTip": "F:\\Projects\\Personal Projects\\DotnetBoilerplate\\Common.Core\\Common.Core\\appsettings.json",
               "RelativeToolTip": "Common.Core\\appsettings.json",
-              "ViewState": "AgIAADMAAAAAAAAAAAAAAE4AAAAgAAAAAAAAAA==",
+              "ViewState": "AgIAAEIAAAAAAAAAAAAAAD4AAAAYAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
               "WhenOpened": "2025-11-15T14:23:39.506Z",
               "EditorCaption": ""
