@@ -88,12 +88,14 @@ Please ensure your code follows existing style guidelines and passes all existin
 
 ## License
 
-This project is licensed under the **MIT License** — see the `LICENSE` file for details.
+This project is licensed under the **MIT License** — see the  
+[MIT License](LICENSE) file for details.
 
 ---
 
 ## Contact
 
-Maintained by **sabbccc**.  
+Maintained by **[sabbccc](https://github.com/sabbccc)**.  
 Feel free to open issues or pull requests for improvements, bug fixes, or suggestions.
+
 
