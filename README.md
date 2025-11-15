@@ -40,7 +40,7 @@ Some of the utilities you’ll find in this library include:
 
 ### Prerequisites
 
-- .NET 6.0 or later (or whichever version you target)  
+- .NET 8.0 or later (or whichever version you target)  
 - Visual Studio / VS Code / JetBrains Rider (or other IDE)  
 - Basic familiarity with .NET, C#, NuGet and library referencing  
 
